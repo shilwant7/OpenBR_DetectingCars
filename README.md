@@ -1,1 +1,1 @@
-# OpenBR_DetectingCars
+# OpenCV_DetectingCars
